@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity
     Button btn1,btn2,btn3,resetBtn;
     Random rnd = new Random();
 
-    int num1;
+    int num1,num6;
     int num2;
     int num3;
     int num4;
